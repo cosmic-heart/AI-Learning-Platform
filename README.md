@@ -4,6 +4,15 @@
 
 ![Project Image](/assets/project.png)
 
+## About
+An intelligent learning platform powered by large language models and vector embeddings. The platform provides personalized AI-driven educational content with document processing capabilities and semantic search.
+
+## Tech Stack
+- **Frontend**: React, TypeScript, Vite
+- **Backend**: Django, Django REST Framework, PostgreSQL, Cassandra
+- **ML Service**: Ray Serve, vLLM, Qdrant (Vector DB)
+- **Infrastructure**: Docker, Docker Swarm
+
 # Documentation 
 - This project uses `mkdocs` as the documentation service
 - serve the document 
